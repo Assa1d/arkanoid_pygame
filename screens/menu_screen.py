@@ -2,9 +2,8 @@
 
 import pygame
 
-from game import audio
 import settings as cfg
-from game import ui
+from game import audio, ui
 from game.entities import Bonus
 
 BONUS_DESCRIPTIONS = {
